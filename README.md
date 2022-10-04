@@ -1,5 +1,9 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+//Created by 21343022_Ella Dwipujana Asyani
+1. Jobsheet6.java merupakan file latihan 1, menampilkan contoh penggunaan percabangan IF
+2. Latihan2.java merupakan file latihan 2, menampilkan contoh penggunaan percabangan IF-ELSE
+3. Latihan33.java merupakan file latihan 3, menampilkan contoh penggunaan percabangan IF-ELSE-IF
+4. Latihan4.java merupakan file latihan 4, menampilkan contoh penggunaan percabangan SWITCH-CASE
+5. tugas1.java merupakan file tugas 1a, menampilkan penggunaan BufferedReader dengan menginputkan 3 buah nilai.
+6. Tugas11.java merupakan file tugas 1b, menampilkan penggunaan JOptionPane dengan menginputkan 3 buah nilai.
+7. Tugas2.java merupakan file tugas 2a, menampilkan penggunaan statement IF-ELSE-IF dengan menginputkan nilai antara 1-10.
+8. Tugas22.java merupakan file tugas 2b, menampilkan penggunaan switch-case dengan mennginputkan nilai antara 1-10.
